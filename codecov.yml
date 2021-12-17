@@ -1,0 +1,8 @@
+fixes:
+  - "ros_ws/src/*/::"
+
+ignore:
+  - "*/**/test/*"  
+  - "*/test/**/*" 
+  - "**/test_*.*"
+  - "**/*_tests.*"
